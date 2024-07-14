@@ -1,5 +1,5 @@
 # dotnet-repr-pattern
-Demonstração da aplicação do REPR Design Pattern (Request-Endpoint-Response) como alternativa para Minimal APIs & MVC por meio da utilização do FastEndpoints.
+Demonstração da aplicação do padrão REPR (Request-Endpoint-Response) como uma alternativa para Minimal APIs e MVC, utilizando o FastEndpoints.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
